@@ -7,6 +7,7 @@
 	</div>
   <div class="menu">
       <a href="home.php">Página Inicial &nbsp&nbsp</a>
-      <a href="pontos.php">Pontos de Achados e Perdidos &nbsp&nbsp</a>
-      <a href="controle.php">Objetos Encontrados</a>
+      <a href="ponto.php">Ponto de Achados e Perdidos &nbsp&nbsp</a>
+      <a href="perdi.php">Perdi um Objeto! &nbsp&nbsp</a>
+      <a href="loginadm.php">Objetos Encontrados</a>
   </div>
