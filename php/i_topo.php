@@ -1,3 +1,4 @@
+<link rel="shortcut icon" href="https://img.icons8.com/office/16/000000/quest.png">
 <meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="../css/estilo.css"/>
   </head>
